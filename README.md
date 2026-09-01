@@ -1,7 +1,6 @@
 # Transit cards
 
-Public image host for the transit infographics posted by
-[@Astrobitch13](https://x.com/Astrobitch13).
+Public image host for the transit infographics 
 
 These are the same cards that appear in the posted threads. This repository
 exists only because Buffer's API fetches post images over the public internet —
